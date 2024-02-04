@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [Click here](https://peter-bread.github.io/peter-bread/) to see more about me!
+
+Currently working on a GitHub Account Manager CLI Tool. (Private right now, will go public soon!)
