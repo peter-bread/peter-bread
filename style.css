@@ -1,56 +1,54 @@
-* {
-    box-sizing: border-box;
+:root {
+    --text-color: #333;
+    --background-color: #f0f0f0;
+    --box-background-color: #fff;
+    --link-color: #007BFF;
+    --link-hover-color: #0056b3;
+    --project-background-color: #f9f9f9;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+body.dark-mode {
+    --text-color: #f0f0f0;
+    --background-color: #120136;
+    --box-background-color: rgba(45, 37, 65, 0.6);
+    --link-color: #1E90FF;
+    --link-hover-color: #63B8FF;
+    --project-background-color: #555;
+}
+
 body {
     margin: 10px;
     padding: 10px;
-    /* font-family: Arial, sans-serif; */
     font-family: 'Roboto', sans-serif;
-    background-color: #f4f4f4;
+    background-color: var(--background-color);
     display: flex;
     flex-direction: column;
     align-items: center;
-}
-
-.container {
-    width: 100%;
-    max-width: 1200px;
-    margin: 0 auto;
+    color: var(--text-color)
 }
 
 header, nav, section, footer {
     padding: 20px;
     margin: 20px;
     border: 1px solid #ddd;
-    border-radius: 5px;
+    border-radius: 20px;
     width: 100%;
     max-width: 800px;
     text-align: left;
-    background-color: #fff;
-    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+    backdrop-filter: blur(10px);
+    background-color: var(--box-background-color);
+    box-shadow: 0 8px 32px 0 rgba(31,38,135,0.37);
     margin-left: auto;
     margin-right: auto;
 }
 
-nav ul {
-    list-style: none;
-    padding: 0;
-}
-
-nav ul li {
-    display: inline;
-    margin-right: 10px;
-}
-
 nav ul li a {
     text-decoration: none;
-    color: #333;
+    color: var(--link-color);
 }
 
 nav ul li a:hover {
-    color: #007BFF;
+    color: var(--link-hover-color); /* Darker primary color for hover effect */
 }
 
 .project {
@@ -59,4 +57,5 @@ nav ul li a:hover {
     margin: 10px 0;
     border-radius: 5px;
     box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+    background-color: var(--project-background-color);
 }
