@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently working on a GitHub Account Manager CLI Tool, called [Gamon](https://github.com/peter-bread/gamon).
+<!--I'm currently working on a GitHub Account Manager CLI Tool, called [Gamon](https://github.com/peter-bread/gamon).-->
+
+Currently spending my summer rewriting my neovim config and probably other dotfiles.
