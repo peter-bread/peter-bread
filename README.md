@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello there
 
 <!--
 **peter-bread/peter-bread** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--I'm currently working on a GitHub Account Manager CLI Tool, called [Gamon](https://github.com/peter-bread/gamon).-->
+<a href="https://github.com/peter-bread">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=peter-bread" />
+</a>
+<a href="https://github.com/peter-bread">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=peter-bread&layout=compact&langs_count=8&card_width=320&exclude_repo=chess-engine" />
+</a>
+
+<br>
 
 Currently spending my summer rewriting my neovim config and probably other dotfiles.
