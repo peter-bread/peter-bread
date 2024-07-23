@@ -23,5 +23,7 @@ Here are some ideas to get you started:
 </a>
 
 <br>
+<br>
+<br>
 
-Currently spending my summer rewriting my neovim config and probably other dotfiles.
+Currently spending my summer rewriting my [neovim config](https://github.com/peter-bread/peter.nvim) and probably other dotfiles.
