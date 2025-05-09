@@ -26,4 +26,6 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-Currently spending my summer rewriting my [neovim config](https://github.com/peter-bread/peter.nvim) and probably other dotfiles.
+Almost finished uni!!!
+
+Rewriting my [neovim config](https://github.com/peter-bread/peter.nvim/tree/rewrite) ***again***.
