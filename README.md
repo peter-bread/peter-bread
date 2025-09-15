@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-Almost finished uni!!!
+Finished uni!!!
 
-Rewriting my [neovim config](https://github.com/peter-bread/peter.nvim/tree/rewrite) ***again***.
+Always working on my [neovim config](https://github.com/peter-bread/peter.nvim)...
+
+Currently working on [Gamon3](https://github.com/peter-bread/gamon3).
