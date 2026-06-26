@@ -50,6 +50,8 @@ definitely did not make my life easier, so who really knows.
 - Simple CLI tool [browserctl](https://github.com/peter-bread/browserctl) to manage default browser on MacOS
   written in [Swift](https://www.swift.org/) (private until I write README and polish the code a bit)
 
+- My own [Homebrew Tap](https://github.com/peter-bread/homebrew-tap) to host some of my projects
+
 ## Notable University Projects
 
 - Dissertation (TODO: add summary (and details?))
