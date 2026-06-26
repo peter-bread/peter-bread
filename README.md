@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm Peter.
+
 ## Interests
 
 Generally, I like things that make my experience as a developer easier, such as:
