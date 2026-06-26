@@ -26,8 +26,14 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-Finished uni!!!
+- Finished uni!!!
 
-Always working on my [neovim config](https://github.com/peter-bread/peter.nvim)...
+- Currently working on a semantic release orchestrator / commit linter written in
+  Rust (private repo until it is in a semi-working state with a clear roadmap).
 
-Currently working on [Gamon3](https://github.com/peter-bread/gamon3).
+- Always working on my [neovim config](https://github.com/peter-bread/peter.nvim)
+  and my [dotfiles and machine bootstrapping setup](https://github.com/peter-bread/.dotfiles).
+
+- [Gamon3](https://github.com/peter-bread/gamon3) is on hold for now.
+  - I got a bit carried away with testing and I think the code quality has suffered as a result
+  - I intend to sort it out eventually, but it works fine at the moment
