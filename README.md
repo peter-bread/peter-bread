@@ -35,7 +35,7 @@ definitely did not make my life easier, so who really knows.
 - Semantic release orchestrator / commit linter (no name yet) written in [Rust](https://rust-lang.org/) (private
   repo until it is in a semi-working state with a clear roadmap)
 
-- My [neovim config](https://github.com/peter-bread/peter.nvim) written in [Lua](https://www.lua.org/).
+- My [neovim config](https://github.com/peter-bread/peter.nvim) written in [Lua](https://www.lua.org/)
 
 - My [dotfiles and machine bootstrapping setup](https://github.com/peter-bread/.dotfiles) mostly written
   in [Bash](https://www.gnu.org/software/bash/)
