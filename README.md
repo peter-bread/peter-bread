@@ -25,6 +25,7 @@ Generally, I like things that make my experience as a developer easier, such as:
 - CLI tools
 - Automation
 - CI/CD
+- Neovim
 
 That said, I also enjoyed a number of my university coursework projects which
 definitely did not make my life easier, so who really knows.
@@ -48,7 +49,7 @@ definitely did not make my life easier, so who really knows.
     ](https://docs.github.com/en/github-cli/github-cli/creating-github-cli-extensions)
 
 - Simple CLI tool [browserctl](https://github.com/peter-bread/browserctl) to manage default browser on MacOS
-  written in [Swift](https://www.swift.org/) (private until I write README and polish the code a bit)
+  written in [Swift](https://www.swift.org/)
 
 - My own [Homebrew Tap](https://github.com/peter-bread/homebrew-tap) to host some of my projects
 
