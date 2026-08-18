@@ -32,8 +32,10 @@ definitely did not make my life easier, so who really knows.
 
 ## Current Projects
 
-- Semantic release orchestrator / commit linter (no name yet) written in [Rust](https://rust-lang.org/) (private
-  repo until it is in a semi-working state with a clear roadmap)
+- [idekyet](https://github.com/peter-bread/idekyet) -- semantic release
+  orchestrator & commit linter/formatter for the clueless -- written in
+  [Rust](https://rust-lang.org/) (private repo until it is in a semi-working
+  state with a clear roadmap)
 
 - My [neovim config](https://github.com/peter-bread/peter.nvim) written in [Lua](https://www.lua.org/)
 
