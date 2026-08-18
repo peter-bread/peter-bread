@@ -36,6 +36,9 @@ definitely did not make my life easier, so who really knows.
   orchestrator & commit linter/formatter for the clueless - written in
   [Rust](https://rust-lang.org/) (private repo until it is in a semi-working
   state with a clear roadmap)
+  - [x] Conventional Commit parser
+  - [ ] Release orchestrator
+  - [ ] Conventional Commit linter/formatter
 
 - My [neovim config](https://github.com/peter-bread/peter.nvim) written in [Lua](https://www.lua.org/)
 
