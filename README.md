@@ -65,6 +65,15 @@ definitely did not make my life easier, so who really knows.
   App](https://github.com/peter-bread/2023-AIAREnhancedTech) written in
   [Swift](https://www.swift.org/) in a team of 4 (TODO: add details?)
 
+## Future Projects
+
+These are things I hope to work on in the future, but nothing here is for
+certain. Unfortunetaly this means there is very little detail in this section.
+
+Any links here are probably to private repositories.
+
+- [internal-consistency](https://github.com/peter-bread/internal-consistency) - a tool to guarantee things make sense
+
 <!--
 <a href="https://github.com/peter-bread">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=peter-bread" />
