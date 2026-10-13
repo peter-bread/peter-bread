@@ -40,20 +40,21 @@ definitely did not make my life easier, so who really knows.
   - [ ] Release orchestrator
   - [ ] Conventional Commit linter/formatter
 
-- My [neovim config](https://github.com/peter-bread/peter.nvim) written in [Lua](https://www.lua.org/)
+- [peter.nvim](https://github.com/peter-bread/peter.nvim) - my Neovim config written in [Lua](https://www.lua.org/)
+
+- [tiny.nvim](https://github.com/peter-bread/tiny.nvim) - Minimal Neovim config + plugin manager wrapper
 
 - My [dotfiles and machine bootstrapping setup](https://github.com/peter-bread/.dotfiles) mostly written
   in [Bash](https://www.gnu.org/software/bash/)
 
-- GitHub CLI multiple account switcher
-  [gamon3](https://github.com/peter-bread/gamon3) written in [Go](https://go.dev/) (development is on
-  hold for now)
+- [gamon3](https://github.com/peter-bread/gamon3) - GitHub CLI multiple account
+  switcher written in [Go](https://go.dev/) (development is on hold for now)
   - I got a bit carried away with testing and I think the code quality has suffered as a result
   - I intend to sort it out eventually, but it works fine at the moment
   - It should probably also be refactored into an actual [GH CLI extension
     ](https://docs.github.com/en/github-cli/github-cli/creating-github-cli-extensions)
 
-- Simple CLI tool [browserctl](https://github.com/peter-bread/browserctl) to manage default browser on MacOS
+- [browserctl](https://github.com/peter-bread/browserctl) - a simple CLI tool to manage default browser on MacOS
   written in [Swift](https://www.swift.org/)
 
 - My own [Homebrew Tap](https://github.com/peter-bread/homebrew-tap) to host some of my projects
