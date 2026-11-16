@@ -74,6 +74,7 @@ certain. Unfortunetaly this means there is very little detail in this section.
 Any links here are probably to private repositories.
 
 - [internal-consistency](https://github.com/peter-bread/internal-consistency) - a tool to guarantee things make sense
+- [4j](https://github.com/peter-bread/4j)
 
 <!--
 <a href="https://github.com/peter-bread">
